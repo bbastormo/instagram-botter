@@ -21,7 +21,7 @@ def __main__:
    else if req.on(`www.instagram.com/%account_name%`)==Flase:
      print('I didnt found your instagram account')
  print("Please choose a botter category:')
- print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
+ print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("10,000");
    choose=input('> ')
        if choose=="1":
           url=input('Paste your instagram post url (your account need to be public')
@@ -38,7 +38,7 @@ def __main__:
           if req.url==False:
        print('cannot find the story/account')
        else: 
-       req.url("https://www.instagram.com/stories/%account_name%/%url%/")
+       req.url("https://www.instagram.com/stormmoo/")
        req.new accounts 
              def __gen__:
                   acounts.new Instagrams (forViews) 
